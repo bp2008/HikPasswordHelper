@@ -3,7 +3,7 @@ A tool which exploits a backdoor in Hikvision camera firmwares circa 2014-2016 (
 
 ## Usage
 
-Download from the releases tab and run the exe.
+Download from [the releases tab](https://github.com/bp2008/HikPasswordHelper/releases) and run the exe.
 
 There are 5 simple steps to reset a password, and you can even skip steps 3 and 4 in many cases.
 

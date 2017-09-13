@@ -15,6 +15,17 @@ There are 5 simple steps to reset a password, and you can even skip steps 3 and 
 
 A Hikvision device that is vulnerable to [ICSA-17-124-01](http://seclists.org/fulldisclosure/2017/Sep/23).
 
+Here is an *incomplete* list of firmwares that are known to be vulnerable or not:
+
+### Compatible Firmwares
+V5.2.0 build 140721
+V5.3.5 build 161112
+V5.4.3 build 160705
+
+### Incompatible Firmwares
+V5.1.6 build 140412
+V5.4.5 Build 170123
+
 ## Special Thanks
 
 This tool was make possible thanks to the efforts of user montecrypto from the ipcamtalk forum.

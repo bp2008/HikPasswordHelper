@@ -23,6 +23,8 @@ https://ipcamtalk.com/threads/backdoor-found-in-hikvision-cameras.17523/
 
 ## See Also
 
-If your camera is too old to use this method to reset a lost password, you can try the reset code method:
+If your firmware is too old to use this method to reset a lost password, you can try the reset code method:
 
 https://ipcamtalk.com/threads/hikvision-camera-admin-password-reset-tool.2837/
+
+If your firmware is too new, then I'm afraid you are out of luck because the reset code method won't work either.

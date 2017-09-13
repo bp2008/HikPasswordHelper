@@ -18,13 +18,13 @@ A Hikvision device that is vulnerable to [ICSA-17-124-01](http://seclists.org/fu
 Here is an *incomplete* list of firmwares that are known to be vulnerable or not:
 
 ### Compatible Firmwares
-V5.2.0 build 140721
-V5.3.5 build 161112
-V5.4.3 build 160705
+V5.2.0 build 140721  
+V5.3.5 build 161112  
+V5.4.3 build 160705  
 
 ### Incompatible Firmwares
-V5.1.6 build 140412
-V5.4.5 Build 170123
+V5.1.6 build 140412  
+V5.4.5 Build 170123  
 
 ## Special Thanks
 

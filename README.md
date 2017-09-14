@@ -28,6 +28,9 @@ Here is an *incomplete* list of camera firmwares that are known to be vulnerable
 + V5.4.4 build 161125 - Vulnerable  
 - V5.4.5 Build 170123 - NOT Vulnerable to ICSA-17-124-01  
 ```
+
+Note: The above list may not be fully accurate for all Hikvision camera models.  [Some camera models are reportedly vulnerable at a different range of firmware versions.](https://ics-cert.us-cert.gov/advisories/ICSA-17-124-01)
+
 ## Special Thanks
 
 This tool was make possible thanks to the efforts of user montecrypto from the ipcamtalk forum.

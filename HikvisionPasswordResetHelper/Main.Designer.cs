@@ -43,6 +43,7 @@
 			this.label5 = new System.Windows.Forms.Label();
 			this.lblSelectedUser = new System.Windows.Forms.Label();
 			this.lblStatus = new System.Windows.Forms.Label();
+			this.label6 = new System.Windows.Forms.Label();
 			((System.ComponentModel.ISupportInitialize)(this.nudPort)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -130,16 +131,16 @@
 			// 
 			// txtNewPW
 			// 
-			this.txtNewPW.Location = new System.Drawing.Point(221, 179);
+			this.txtNewPW.Location = new System.Drawing.Point(221, 147);
 			this.txtNewPW.Name = "txtNewPW";
 			this.txtNewPW.Size = new System.Drawing.Size(137, 20);
 			this.txtNewPW.TabIndex = 7;
-			this.txtNewPW.Text = "12345";
+			this.txtNewPW.Text = "12345abc";
 			// 
 			// label4
 			// 
 			this.label4.AutoSize = true;
-			this.label4.Location = new System.Drawing.Point(134, 182);
+			this.label4.Location = new System.Drawing.Point(134, 150);
 			this.label4.Name = "label4";
 			this.label4.Size = new System.Drawing.Size(81, 13);
 			this.label4.TabIndex = 8;
@@ -158,7 +159,7 @@
 			// label5
 			// 
 			this.label5.AutoSize = true;
-			this.label5.Location = new System.Drawing.Point(134, 163);
+			this.label5.Location = new System.Drawing.Point(134, 131);
 			this.label5.Name = "label5";
 			this.label5.Size = new System.Drawing.Size(77, 13);
 			this.label5.TabIndex = 10;
@@ -167,7 +168,7 @@
 			// lblSelectedUser
 			// 
 			this.lblSelectedUser.AutoSize = true;
-			this.lblSelectedUser.Location = new System.Drawing.Point(218, 163);
+			this.lblSelectedUser.Location = new System.Drawing.Point(218, 131);
 			this.lblSelectedUser.Name = "lblSelectedUser";
 			this.lblSelectedUser.Size = new System.Drawing.Size(27, 13);
 			this.lblSelectedUser.TabIndex = 11;
@@ -180,11 +181,22 @@
 			this.lblStatus.Size = new System.Drawing.Size(349, 34);
 			this.lblStatus.TabIndex = 12;
 			// 
+			// label6
+			// 
+			this.label6.Enabled = false;
+			this.label6.Location = new System.Drawing.Point(134, 176);
+			this.label6.Name = "label6";
+			this.label6.Size = new System.Drawing.Size(227, 60);
+			this.label6.TabIndex = 13;
+			this.label6.Text = "Newer firmwares require a password length of 8-16 characters including at least t" +
+    "wo of: \r\n[number, lowercase, uppercase, special character].";
+			// 
 			// Main
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(372, 306);
+			this.Controls.Add(this.label6);
 			this.Controls.Add(this.lblStatus);
 			this.Controls.Add(this.lblSelectedUser);
 			this.Controls.Add(this.label5);
@@ -225,6 +237,7 @@
 		private System.Windows.Forms.Label label5;
 		private System.Windows.Forms.Label lblSelectedUser;
 		private System.Windows.Forms.Label lblStatus;
+		private System.Windows.Forms.Label label6;
 	}
 }
 

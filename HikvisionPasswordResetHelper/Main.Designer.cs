@@ -183,7 +183,6 @@
 			// 
 			// label6
 			// 
-			this.label6.Enabled = false;
 			this.label6.Location = new System.Drawing.Point(134, 176);
 			this.label6.Name = "label6";
 			this.label6.Size = new System.Drawing.Size(227, 60);

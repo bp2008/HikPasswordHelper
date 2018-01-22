@@ -28,6 +28,7 @@ Here is an *incomplete* list of camera firmwares that have been reported to be v
 + V5.3.5 build 161112 - Vulnerable  
 + V5.4.0 build 160401 - Vulnerable  
 + V5.4.0 build 160520 - Vulnerable  
++ V5.4.1 build 160525 - Vulnerable
 + V5.4.3 build 160705 - Vulnerable  
 + V5.4.3 build 160808 - Vulnerable  
 + V5.4.4 build 161125 - Vulnerable  
